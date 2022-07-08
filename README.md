@@ -1,2 +1,2 @@
-# examen_integrador
-examen intro
+Gerard Moutardier
+Juan Pablo Blanco
